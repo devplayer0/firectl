@@ -15,7 +15,7 @@ package main
 
 // Version represents the major, minor, and patch version of
 // FireCTL.
-const Version = "0.1.0"
+const Version = "0.1.2"
 
 // SupportedFirecrackerVersion is the firecracker version that the sdk
-const SupportedFirecrackerVersion = "0.19.0"
+const SupportedFirecrackerVersion = "0.22.0"
